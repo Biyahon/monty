@@ -1,1 +1,1 @@
- Stacks, Queues - LIFO, FIFO.c
+Stacks, Queues - LIFO, FIFO
